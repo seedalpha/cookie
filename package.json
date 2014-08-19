@@ -1,0 +1,27 @@
+{
+  "name": "cookie",
+  "version": "1.0.1",
+  "description": "Cookie component.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seedalpha/cookie.git"
+  },
+  "keywords": [
+    "cookie",
+    "component",
+    "browserify"
+  ],
+  "author": "visionmedia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seedalpha/cookie/issues"
+  },
+  "homepage": "https://github.com/seedalpha/cookie"
+}
